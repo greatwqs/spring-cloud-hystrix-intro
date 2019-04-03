@@ -1,4 +1,4 @@
-# spring-cloud-hystrix-intro 演示DEMO
+# hystrix 演示
 - student-springboot 基础服务提供者
 - school-springboot 调用 student 服务
 - 通过postman调用school微服务
